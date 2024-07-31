@@ -1,6 +1,24 @@
 import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google"
 import "./globals.css";
+import './css/animate.css'
+import './css/bootstrap.css'
+// import './css/flaticon.css'
+// import './css/fonticon.css'
+import './css/magnify.css'
+import './css/select.css'
+import './css/slick.css'
+import './css/slicknav.css'
+import './css/styles.css'
+import './css/styling.css'
+// import './css/theme.css'
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
+
+
+
+
+
 import { cn } from "@/lib/utils";
 
 const fontSans = FontSans({

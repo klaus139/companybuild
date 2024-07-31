@@ -12,7 +12,7 @@ const AboutCard: React.FC<IconProps> = ({ icon:Icon, heading, text }) => {
     <div className='p-4 border border-green-200 hover:bg-green-900 hover:text-white  bg-green-200 w-[350px] flex flex-col px-auto py-3 items-center justify-center p-auto  rounded-lg'>
       <Icon className='text-4xl mb-4 mt-3 hover:text-white'  /> {/* Render the icon component */}
       <h2 className='text-xl font-semibold mt-3'>{heading}</h2>
-      <p className='mt-3 text-[16px] font-sans font-300 mx-5 '>{text}</p>
+      <p className='mt-3 text-[16px] font-sans font-300 mx-5 pb-[30px] pt-7 items-center flex-col justify-center flex '>{text}</p>
     </div>
   )
 }
