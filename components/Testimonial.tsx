@@ -39,7 +39,7 @@ const Testimonial = () => {
                         <path fillRule="evenodd" fill="rgb(240, 78, 60)" d="M57.053,48.209 L42.790,48.209 L52.299,29.242 L38.036,29.242 L38.036,0.790 L66.562,0.790 L66.562,29.242 L57.053,48.209 ZM4.755,48.209 L14.263,29.242 L0.000,29.242 L0.000,0.790 L28.527,0.790 L28.527,29.242 L19.018,48.209 L4.755,48.209 Z" />
                       </svg>
                       <p>
-                    They delivered exceptional networking solutions that have dramatically improved our company's connectivity and efficiency. Their innovative approach and thorough understanding of our needs resulted in a tailor-made network that performs flawlessly. The level of support we’ve received has been outstanding, with quick responses and effective solutions. We’re thrilled with the results and highly recommend their services.
+                    They delivered exceptional networking solutions that have dramatically improved our companys connectivity and efficiency. Their innovative approach and thorough understanding of our needs resulted in a tailor-made network that performs flawlessly. The level of support we have received has been outstanding, with quick responses and effective solutions. We are thrilled with the results and highly recommend their services.
                       </p>
                     </div>
                     <div className="testimonial-founder d-flex align-items-center justify-content-center">
@@ -68,7 +68,7 @@ const Testimonial = () => {
                         <path fillRule="evenodd" fill="rgb(240, 78, 60)" d="M57.053,48.209 L42.790,48.209 L52.299,29.242 L38.036,29.242 L38.036,0.790 L66.562,0.790 L66.562,29.242 L57.053,48.209 ZM4.755,48.209 L14.263,29.242 L0.000,29.242 L0.000,0.790 L28.527,0.790 L28.527,29.242 L19.018,48.209 L4.755,48.209 Z" />
                       </svg>
                       <p>
-                      Working with these guys has been a game-changer for our business. Their tailored approach and in-depth knowledge of network solutions have transformed our operations. The improved performance and security of our network have exceeded our expectations. Their support team is always available and responsive, making it easy to manage and troubleshoot any issues. Thank you for your outstanding work!
+                      Working with these guys has been a game-changer for our business. Their tailored approach and in-depth knowledge of network solutions have transformed our operations. The improved performance and security of our network have exceeded our expectations. Their support team is always available and responsive, making it easy to manage and troubleshoot any issues. Thank you for your outstanding work
                       </p>
                     </div>
                     <div className="testimonial-founder d-flex align-items-center justify-content-center">

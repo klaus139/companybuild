@@ -70,11 +70,11 @@ const Navbar = () => {
             href="#"
             className="flex items-center space-x-3 rtl:space-x-reverse"
           >
-            <img
+            {/* <img
               src="https://flowbite.com/docs/images/logo.svg"
               className="h-8"
               alt="Logo"
-            />
+            /> */}
             <span className="self-center text-2xl text-black font-semibold whitespace-nowrap dark:text-white">
               Logo
             </span>
