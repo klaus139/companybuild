@@ -14,11 +14,10 @@ const HeroSection = () => {
                       Committed to success
                     </span>
                     <h1 data-animation="fadeInLeft" data-delay=".5s">
-                      Network Solutions Experts
+                      DA SEO Engineering Services
                     </h1>
                     <p data-animation="fadeInLeft" data-delay=".9s">
-                      We are your 
-                      <br /> solution to networking problems.
+                      
                     </p>
 
                     <div

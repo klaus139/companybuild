@@ -48,7 +48,7 @@ const Gallery = () => {
                 </div>
                 <div className="team-caption">
                   <h3>
-                    <a href="#">Solutions</a>
+                    <a href="#">Maintenance</a>
                   </h3>
                   <span>Networking</span>
                 </div>
@@ -62,7 +62,7 @@ const Gallery = () => {
                 </div>
                 <div className="team-caption">
                   <h3>
-                    <a href="#">Solutions</a>
+                    <a href="#">Services</a>
                   </h3>
                   <span>Networking</span>
                 </div>
@@ -90,7 +90,7 @@ const Gallery = () => {
                 </div>
                 <div className="team-caption">
                   <h3>
-                    <a href="#">Solutions</a>
+                    <a href="#">Support</a>
                   </h3>
                   <span>Networking</span>
                 </div>

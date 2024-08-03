@@ -1,4 +1,5 @@
 "use client"
+import Image from 'next/image';
 import React from 'react';
 import { FaTwitter, FaFacebookF, FaInstagram, FaGlobe } from 'react-icons/fa';
 
@@ -16,17 +17,27 @@ const Footer = () => {
                 <div className="col-xl-3 col-lg-4 col-md-5 col-sm-8">
                   <div className="single-footer-caption mb-50">
                     <div className="footer-logo">
-                      <a href="index.html">
-                        <h1>LOGO</h1>
+                      <a href="/">
+                      {/* <Image
+              src="/images/logopreview.png"
+              className="object-contain"
+              height={100}
+              width={100}
+              alt="Logo"
+            /> */}
+                        <h1 className='text-white'>DA SEO Engineering Service</h1>
                       </a>
                     </div>
                     <div className="footer-tittle">
                       <div className="footer-pera">
-                        <p className="info1">Receive updates and latest news direct from Simply enter.</p>
+                        <p className="info1">Our contact details are highlighted below, as follows: </p>
                       </div>
                     </div>
                     <div className="footer-number">
-                      <h4><span>+564 </span>7885 3222</h4>
+                      <h4><span>+234 </span>703 107 0581</h4>
+                      <h4><span>+234 </span>703 501 3336 </h4>
+                     
+                     
                       <p>
                         <a href="mailto:[email protected]" className="__cf_email__">
                           [email&#160;protected]
@@ -39,16 +50,13 @@ const Footer = () => {
                   <div className="single-footer-caption mb-50">
                     <div className="footer-tittle">
                       <h4>Location</h4>
-                      <ul>
-                        <li><a href="#">Advanced</a></li>
-                        <li><a href="#">Management</a></li>
-                        <li><a href="#">Corporate</a></li>
-                        <li><a href="#">Customer</a></li>
-                        <li><a href="#">Information</a></li>
-                      </ul>
+                      <p className='text-gray-400'>Head Office: SUITE 302, SECOND FLOOR, AIRPORT BUSINESS HUB, ALONG MURTALA MOHAMMED INTERNATIONAL AIRPORT, IKEJA, LAGOS STATE.</p>
+                      
+                     <p>Regional Office: Km 10 Benin-Lagos road, Iguosa. Benin city, Edo state</p>
                     </div>
                   </div>
                 </div>
+               
                 <div className="col-xl-2 col-lg-2 col-md-3 col-sm-5">
                   <div className="single-footer-caption mb-50">
                     <div className="footer-tittle">
