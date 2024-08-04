@@ -121,10 +121,10 @@ const Footer = () => {
                 <div className="col-xl-9 col-lg-8">
                   <div className="footer-copy-right">
                     <p>
-                      Copyright &copy; {currentYear} All rights reserved | This template is made with{' '}
+                      Copyright &copy; {currentYear} All rights reserved | This websiet was built {' '}
                       <i className="fa fa-heart" aria-hidden="true"></i> by{' '}
-                      <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">
-                        Colorlib
+                      <a href="mailto:nickoklaus5@gmail.com" target="_blank" rel="noopener noreferrer">
+                        KlausDev
                       </a>
                     </p>
                   </div>
@@ -132,7 +132,7 @@ const Footer = () => {
                 <div className="col-xl-3 col-lg-4">
                   <div className="footer-social f-right">
                     <a href="#"><FaTwitter /></a>
-                    <a href="https://www.facebook.com/sai4ull"><FaFacebookF /></a>
+                    <a href="https://www.facebook.com/nicholasigunbor"><FaFacebookF /></a>
                     <a href="#"><FaGlobe /></a>
                     <a href="#"><FaInstagram /></a>
                   </div>

@@ -3,13 +3,13 @@ import React from "react";
 const AboutUs = () => {
   return (
     <div>
-      <div className="slider-area2">
+      <div className="slider-area3">
         <div className="slider-height2 hero-overly2 d-flex align-items-center">
           <div className="container">
             <div className="row">
               <div className="col-xl-12">
                 <div className="hero-cap hero-cap2 text-center">
-                  <h2>About Us</h2>
+                  <h2 className='text-white text-6xl font-extrabold'>About Us</h2>
                 </div>
               </div>
             </div>

@@ -25,7 +25,7 @@ export default function Home() {
       <TopServices />
       <Portfolio />
       <Testimonial />
-      <CountDown />
+      {/* <CountDown /> */}
       <Gallery />
       <Careers />
 

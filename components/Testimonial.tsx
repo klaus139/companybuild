@@ -44,14 +44,14 @@ const Testimonial = () => {
                     </div>
                     <div className="testimonial-founder d-flex align-items-center justify-content-center">
                       <div className="founder-img">
-                        <Image
+                        {/* <Image
                           src="/images/n1.jpg"
                           alt="Jessya Inn"
                           width={100}
                           height={100}
                           className='h-[100px] w-[100px] rounded-full'
                        
-                        />
+                        /> */}
                       </div>
                       <div className="founder-text">
                         <span>Akintola Samuel</span>
@@ -73,14 +73,14 @@ const Testimonial = () => {
                     </div>
                     <div className="testimonial-founder d-flex align-items-center justify-content-center">
                       <div className="founder-img">
-                        <Image
+                        {/* <Image
                           src="/images/n2.jpeg"
                           alt="Jessya Inn"
                           width={100}
                           height={100}
                           className='h-[100px] w-[100px] rounded-full'
                        
-                        />
+                        /> */}
                       </div>
                       <div className="founder-text">
                         <span>Friday Akpukpo</span>

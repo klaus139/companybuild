@@ -2129,6 +2129,11 @@ hero-btn {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.slider-area3 {
+  background-image: url(/images/about1.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 /* line 37, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
 .slider-area {
