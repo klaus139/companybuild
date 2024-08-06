@@ -9,8 +9,8 @@ const Portfolio = () => {
           <div className="row">
             <div className="cl-xl-7 col-lg-8 col-md-10">
               <div className="section-tittle mb-70">
-                <span>Our Portfolios of cases</span>
-                <h2>Featured Case Study</h2>
+                <span>Our Portfolios of Projects</span>
+                <h2>Featured Projects</h2>
               </div>
             </div>
           </div>
@@ -21,16 +21,16 @@ const Portfolio = () => {
                   <Image
                     width={500}
                     height={500}
-                    src="/images/WhatsApp Image 2024-07-31 at 12.55.32 PM (1).jpeg"
+                    src="/images/WhatsApp Image 2024-08-06 at 11.34.19 PM.jpeg"
                     alt="sssas"
                     className="h-[500px]"
                   />
                 </div>
                 <div className="services-caption">
-                  <span>Strategy planing</span>
+                  <span>Renewable Telecommunications Energy Solutions</span>
                   <p>
                     <a href="#">
-                      Within the construction industry as their overdraft
+                      Solar Powered Transmissions
                     </a>
                   </p>
                 </div>
@@ -42,16 +42,16 @@ const Portfolio = () => {
                   <Image
                     width={500}
                     height={500}
-                    src="/images/WhatsApp Image 2024-07-31 at 12.55.35 PM (1).jpeg"
+                    src="/images/WhatsApp Image 2024-08-06 at 11.34.20 PM (3).jpeg"
                     alt="xxcxc"
                     className="h-[500px]"
                   />
                 </div>
                 <div className="services-caption">
-                  <span>Strategy planing</span>
+                  <span>High Quality Diesel Engines</span>
                   <p>
                     <a href="#">
-                      Within the construction industry as their overdraft
+                      Heavy duty machinery for telecommunications infrastructure
                     </a>
                   </p>
                 </div>
@@ -69,10 +69,10 @@ const Portfolio = () => {
                   />
                 </div>
                 <div className="services-caption">
-                  <span>Strategy planing</span>
+                  <span>Telecommunication Infrastructure</span>
                   <p>
                     <a href="#">
-                      Within the construction industry as their overdraft
+                      Broadband Server Surveillance Units
                     </a>
                   </p>
                 </div>
@@ -84,16 +84,16 @@ const Portfolio = () => {
                   <Image
                     width={500}
                     height={500}
-                    src="/images/WhatsApp Image 2024-07-31 at 12.55.37 PM (2).jpeg"
+                    src="/images/WhatsApp Image 2024-08-06 at 11.34.20 PM (2).jpeg"
                     alt="sdsd"
                     className="h-[500px]"
                   />
                 </div>
                 <div className="services-caption">
-                  <span>Strategy planing</span>
+                  <span>Power Solutions for facilities</span>
                   <p>
                     <a href="#">
-                      Within the construction industry as their overdraft
+                      Clean and renewable energy for power solutions
                     </a>
                   </p>
                 </div>

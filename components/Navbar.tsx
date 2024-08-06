@@ -78,7 +78,7 @@ const Navbar = () => {
               width={100}
               alt="Logo"
             />
-            <span className="self-center text-2xl text-black font-semibold whitespace-nowrap dark:text-white">
+            <span className="self-center text-4xl sm:text-2xl text-black font-semibold whitespace-nowrap dark:text-white">
               DA SEO LTD
             </span>
           </a>
