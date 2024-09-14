@@ -18,7 +18,7 @@ const Gallery = () => {
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-">
               <div className="single-team mb-30">
                 <div className="team-img">
-                  <Image width={1000} height={1000} className="h-[300px]" src="/images/WhatsApp Image 2024-07-31 at 12.55.31 PM (1).jpeg" alt="sasa" />
+                  <Image width={1000} height={1000} className="h-[300px]" src="/images/gen1.jpeg" alt="sasa" />
                 </div>
                 <div className="team-caption">
                   <h3>
@@ -31,24 +31,24 @@ const Gallery = () => {
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-">
               <div className="single-team mb-30">
                 <div className="team-img">
-                  <Image width={1000} height={700} className="h-[300px]" src="/images/WhatsApp Image 2024-07-31 at 12.55.35 PM.jpeg" alt="ssasas" />
+                  <Image width={1000} height={700} className="h-[300px]" src="/images/gen2.jpeg" alt="ssasas" />
                 </div>
                 <div className="team-caption">
                   <h3>
-                    <a href="#">Telecommunication Mast</a>
+                    <a href="#">Heavy Duty Machine</a>
                   </h3>
-                  <span>Networking Solutions</span>
+                  <span>Energy Solutions</span>
                 </div>
               </div>
             </div>
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-">
               <div className="single-team mb-30">
                 <div className="team-img">
-                  <Image width={1000} height={700} className="h-[300px]" src="/images/WhatsApp Image 2024-07-31 at 12.55.38 PM (3).jpeg" alt="asasa" />
+                  <Image width={1000} height={700} className="h-[300px]" src="/images/gen3.jpeg" alt="asasa" />
                 </div>
                 <div className="team-caption">
                   <h3>
-                    <a href="#">Maintenance</a>
+                    <a href="#">High Rise Tower Infrastructure</a>
                   </h3>
                   <span>Networking</span>
                 </div>
@@ -58,7 +58,7 @@ const Gallery = () => {
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-">
               <div className="single-team mb-30">
                 <div className="team-img">
-                  <Image width={1000} height={700} className="h-[300px]" src="/images/WhatsApp Image 2024-07-31 at 12.55.30 PM (2).jpeg" alt="asasa" />
+                  <Image width={1000} height={700} className="h-[300px]" src="/images/gen4.jpeg" alt="asasa" />
                 </div>
                 <div className="team-caption">
                   <h3>
@@ -72,7 +72,7 @@ const Gallery = () => {
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-">
               <div className="single-team mb-30">
                 <div className="team-img">
-                  <Image width={1000} height={700} className="h-[300px]" src="/images/WhatsApp Image 2024-07-31 at 12.55.34 PM.jpeg" alt="asasa" />
+                  <Image width={1000} height={700} className="h-[300px]" src="/images/mast1.jpeg" alt="asasa" />
                 </div>
                 <div className="team-caption">
                   <h3>
@@ -86,7 +86,7 @@ const Gallery = () => {
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-">
               <div className="single-team mb-30">
                 <div className="team-img">
-                  <Image width={1000} height={700} className="h-[300px]" src="/images/WhatsApp Image 2024-07-31 at 12.55.38 PM (2).jpeg" alt="asasa" />
+                  <Image width={1000} height={700} className="h-[300px]" src="/images/mast2.jpeg" alt="asasa" />
                 </div>
                 <div className="team-caption">
                   <h3>
@@ -96,6 +96,20 @@ const Gallery = () => {
                 </div>
               </div>
             </div>
+            {/* <div className="col-xl-4 col-lg-4 col-md-6 col-sm-">
+              <div className="single-team mb-30">
+                <div className="team-img">
+                  <Image width={1000} height={700} className="h-[300px]" src="/images/mast3.jpeg" alt="asasa" />
+                </div>
+                <div className="team-caption">
+                  <h3>
+                    <a href="#">Support</a>
+                  </h3>
+                  <span>Networking</span>
+                </div>
+              </div>
+            </div> */}
+           
 
 
 

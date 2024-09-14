@@ -21,16 +21,16 @@ const Portfolio = () => {
                   <Image
                     width={500}
                     height={500}
-                    src="/images/WhatsApp Image 2024-08-06 at 11.34.19 PM.jpeg"
+                    src="/images/mast1.jpeg"
                     alt="sssas"
                     className="h-[500px]"
                   />
                 </div>
                 <div className="services-caption">
-                  <span>Renewable Telecommunications Energy Solutions</span>
+                  <span>Telecommunications Solutions</span>
                   <p>
                     <a href="#">
-                      Solar Powered Transmissions
+                      High Rise Transmissions
                     </a>
                   </p>
                 </div>
@@ -42,16 +42,16 @@ const Portfolio = () => {
                   <Image
                     width={500}
                     height={500}
-                    src="/images/WhatsApp Image 2024-08-06 at 11.34.20 PM (3).jpeg"
+                    src="/images/mast2.jpeg"
                     alt="xxcxc"
                     className="h-[500px]"
                   />
                 </div>
                 <div className="services-caption">
-                  <span>High Quality Diesel Engines</span>
+                  <span>Secure Commnunications Solutions</span>
                   <p>
                     <a href="#">
-                      Heavy duty machinery for telecommunications infrastructure
+                      We specialize in telecommunications infrastructure
                     </a>
                   </p>
                 </div>
@@ -63,16 +63,16 @@ const Portfolio = () => {
                   <Image
                     width={200}
                     height={200}
-                    src="/images/WhatsApp Image 2024-07-31 at 12.55.30 PM (1).jpeg"
+                    src="/images/gen1.jpeg"
                     alt="ssd"
                     className="h-[500px]"
                   />
                 </div>
                 <div className="services-caption">
-                  <span>Telecommunication Infrastructure</span>
+                  <span>Generator Maintenance</span>
                   <p>
                     <a href="#">
-                      Broadband Server Surveillance Units
+                     We install and maintain energy facilities
                     </a>
                   </p>
                 </div>
@@ -84,16 +84,16 @@ const Portfolio = () => {
                   <Image
                     width={500}
                     height={500}
-                    src="/images/WhatsApp Image 2024-08-06 at 11.34.20 PM (2).jpeg"
+                    src="/images/gen4.jpeg"
                     alt="sdsd"
                     className="h-[500px]"
                   />
                 </div>
                 <div className="services-caption">
-                  <span>Power Solutions for facilities</span>
+                  <span>Power Efficiency</span>
                   <p>
                     <a href="#">
-                      Clean and renewable energy for power solutions
+                      We can build network and efficient power grids.
                     </a>
                   </p>
                 </div>
