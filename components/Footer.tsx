@@ -25,7 +25,7 @@ const Footer = () => {
               width={100}
               alt="Logo"
             /> */}
-                        <h1 className='text-white'>DA SEO Engineering Service</h1>
+                        <h1 className='text-white'>DA SEO Engineering Services</h1>
                       </a>
                     </div>
                     <div className="footer-tittle">

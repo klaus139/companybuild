@@ -79,7 +79,7 @@ const Navbar = () => {
               alt="Logo"
             />
             <span className="self-center text-4xl sm:text-2xl text-black font-semibold whitespace-nowrap dark:text-white">
-              DA SEO LTD
+              DA SEO ENGINEERING SERVICES 
             </span>
           </a>
           {/* Mobile menu button */}

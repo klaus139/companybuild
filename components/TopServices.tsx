@@ -37,7 +37,7 @@ const TopServices = () => {
                 </div>
                 <div className="support-caption">
                   <p className="pera-top">
-                    At DA SEO ENGINEERING SERVICES LIMITED, we are dedicated to delivering exceptioanl telecommunications infrasrructure operations and maintenance srvice that drive progress and success.
+                    At DA SEO ENGINEERING SERVICES LIMITED, we are dedicated to delivering exceptioanl telecommunications infrastructure operations and maintenance service that drive progress and success.
                     With a strong team, robust service delivery model and unwavering commitment to quality, safety and customer satisfaction, we are shaping the future of telecommunications in Africa. 
                     Join us in shaping the future of telecommunications in Africa. Together let us create a connected world that empowers growth, progres and limitless possibilities.
                   </p>
